@@ -1,0 +1,14 @@
+{
+  "name": "databutton-app-mcp-ts",
+  "version": "0.0.1",
+  "main": "index.js",
+  "scripts": {
+    "start": "tsx proxy.ts"
+  },
+  "license": "MIT",
+  "description": "Databutton MCP proxy TS version (prototype)",
+  "dependencies": {
+    "axios": "1.8.4",
+    "ws": "8.18.1"
+  }
+}
